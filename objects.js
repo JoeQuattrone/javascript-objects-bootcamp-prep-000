@@ -6,4 +6,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
     return playlist
 }
 
-updatePlaylist(PhillOchs, "Phil Ochs", "Slowdive"); 
+
